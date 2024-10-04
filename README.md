@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Je modifie cette ligne
+Je modifie cette ligne de tel façon qu'il y est un conflit.
 
 ```
 A définir
